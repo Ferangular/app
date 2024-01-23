@@ -1,4 +1,5 @@
-# App
+# Lector de Código QR
+Proyecto de Angular 17, utilizando la librería zxing-scanner
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.
 
